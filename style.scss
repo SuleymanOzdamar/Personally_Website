@@ -1,0 +1,15 @@
+.collapse{
+    .active{
+        color: red !important;
+    }
+}
+
+#home{
+    background: {
+        image: url('/img/photo.png');
+        size: contain;
+        repeat: no-repeat;
+        position: center;
+    }
+}
+

@@ -1,0 +1,10 @@
+.collapse .active {
+  color: red !important;
+}
+
+#home {
+  background-image: url("/img/photo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}/*# sourceMappingURL=style.css.map */
